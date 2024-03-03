@@ -1,0 +1,50 @@
+[
+  {
+    "fullname": "Albert Einstein",
+    "born_date": null,
+    "born_location": null,
+    "description": null
+  },
+  {
+    "fullname": "J.K. Rowling",
+    "born_date": null,
+    "born_location": null,
+    "description": null
+  },
+  {
+    "fullname": "Jane Austen",
+    "born_date": null,
+    "born_location": null,
+    "description": null
+  },
+  {
+    "fullname": "Marilyn Monroe",
+    "born_date": null,
+    "born_location": null,
+    "description": null
+  },
+  {
+    "fullname": "Andr\u00e9 Gide",
+    "born_date": null,
+    "born_location": null,
+    "description": null
+  },
+  {
+    "fullname": "Thomas A. Edison",
+    "born_date": null,
+    "born_location": null,
+    "description": null
+  },
+  {
+    "fullname": "Eleanor Roosevelt",
+    "born_date": null,
+    "born_location": null,
+    "description": null
+  },
+  {
+    "fullname": "Steve Martin",
+    "born_date": null,
+    "born_location": null,
+    "description": null
+  }
+]
